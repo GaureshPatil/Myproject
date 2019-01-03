@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
-echo "i have changed the text";
+echo "hello world!";
 ?>
 </body>
 </html>
